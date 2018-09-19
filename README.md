@@ -4,4 +4,4 @@ NIK KK Generator adalah tools yang digunakan untuk membuat data NIK KK secara ra
 
 ## Lisense
 
-This script under license from <a href="https://github.com/muhaiminmuh/nik_kk_generator/blob/master/LICENSE">MIT Lisense</a>
+This code under license from <a href="https://github.com/muhaiminmuh/nik_kk_generator/blob/master/LICENSE">MIT Lisense</a>
